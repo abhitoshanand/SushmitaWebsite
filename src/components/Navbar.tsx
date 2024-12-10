@@ -20,7 +20,7 @@ export function Navbar() {
   return (
     <>
       <nav className="hidden md:flex justify-around items-center h-[17vh] animate-fade-in dark:bg-gray-900">
-        <div className="text-3xl font-semibold dark:text-white">Abhitosh Anand</div>
+        <div className="text-3xl font-semibold dark:text-white">Sushmita Kumari</div>
         <ul className="flex items-center gap-8">
           {navLinks.map((link, index) => (
             <li
@@ -43,7 +43,7 @@ export function Navbar() {
       </nav>
 
       <nav className="md:hidden flex justify-between items-center px-6 py-4 dark:bg-gray-900">
-        <div className="text-2xl font-semibold dark:text-white">Abhitosh Anand</div>
+        <div className="text-2xl font-semibold dark:text-white">Sushmita Kumari</div>
         <div className="flex items-center gap-4">
           <ThemeToggle />
           <button onClick={toggleMenu} className="z-50 dark:text-white">
