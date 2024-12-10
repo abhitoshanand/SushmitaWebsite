@@ -13,7 +13,7 @@ export function About() {
       <h2 className="text-4xl font-bold text-center mb-12 dark:text-white animate-slide-up">About Me</h2>
       
       <div className={`flex flex-col md:flex-row gap-12 ${inView ? 'animate-slide-up' : 'opacity-0'}`}>
-        <div className={`flex flex-col md:flex-row gap-8 md:gap-12 max-w-6xl mx-auto ${inView ? 'animate-slide-up' : 'opacity-0'}`}>
+        
         <div className="flex-1">
           <img
             src="https://images.unsplash.com/photo-1513258496099-48168024aec0?w=800&h=600"
