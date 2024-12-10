@@ -9,21 +9,21 @@ export function Education() {
 
   const education = [
     {
-      degree: "Bachelor's in Education",
+      degree: "Bachelor of Education",
       year: "2022-24",
-      institution: "Jamshedpur Co-operative College, Jamshedpur",
+      institution: "Jamshedpur Co-operative College, Jamshedpur, Jharkhand",
       icon: <GraduationCap className="w-6 h-6 text-blue-600 dark:text-blue-400" />,
     },
     {
-      degree: "Master's in Physics",
+      degree: "Master of Arts in English Language and Literature",
       year: "2020-22",
-      institution: "Jamshedpur Co-operative College, Jamshedpur",
+      institution: "Jamshedpur Women's College, Jamshedpur, Jharkhand",
       icon: <GraduationCap className="w-6 h-6 text-blue-600 dark:text-blue-400" />,
     },
     {
-      degree: "Bachelor's in Science with Physics Hons.",
-      year: "2017-20",
-      institution: "Karim City College, Jamshedpur",
+      degree: "Bachelor of Arts in English Language and Literature",
+      year: "2016-19",
+      institution: "Jamshedpur Women's College, Jamshedpur, Jharkhand",
       icon: <GraduationCap className="w-6 h-6 text-blue-600 dark:text-blue-400" />,
     },
   ];
