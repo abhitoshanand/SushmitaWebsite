@@ -10,12 +10,11 @@ export function Experience() {
     {
       title: 'Teaching Intern',
       period: 'Nov 2023 - Present',
-      organization: 'Middle School Deogarh, Jamshedpur (JCERT Government Affiliated)',
+      organization: 'High School Asanbani, Jamshedpur (JCERT Government Affiliated)',
       achievements: [
-        'Developed and implemented 50 comprehensive lesson plans with dedicated teaching-learning materials',
-        'Simplified complex Physics concepts through engaging teaching methods',
-        'Integrated microteaching skills into daily lesson delivery',
-        'Conducted regular student assessments and provided constructive feedback'
+        'Supported foundational English language skills for students with limited exposure to English outside the classroom, adhering to the JCERT curriculum.',
+        'Developed lesson plans that were accessible and engaging, emphasizing reading, writing, grammar, and comprehension.',
+        'Assessed student progress, provided constructive feedback.'
       ]
     },
     {
@@ -23,30 +22,20 @@ export function Experience() {
       period: 'Oct 2023 - Nov 2023',
       organization: 'Jamshedpur Co-Operative College, Jamshedpur, Jharkhand',
       achievements: [
-        'Took part in intense teaching practice sessions where I worked on core skills like asking good questions and managing classroom time',
-        'Conducted peer teaching sessions to refine instructional strategies and lesson delivery',
-        'Engaged in collaborative feedback exchanges to adapt teaching methods for diverse learning styles'
+        'Participated in hands-on teaching sessions focused on essential teaching techniques, including effective questioning, classroom management, and time management.',
+        'Practiced delivering short, targeted lessons and refined competencies in adapting lessons for diverse learners through peer feedback and observation.'
       ]
     },
     {
-      title: 'Private Physics Tutor',
-      period: 'Aug 2018 - Present',
-      organization: '',
+      title: 'English Tutor',
+      period: 'Feb 2019 - Mar 2023',
+      organization: 'Disha Institute of Education, Jamshedpur, Jharkhand',
       achievements: [
-        'Mentored students from grades 6-12 in Physics fundamentals',
-        'Created personalized learning strategies and resources',
-        'Maintained parent communication and fostered effective study habits'
+        'Instructed students in reading comprehension, writing, grammar, and vocabulary, fostering communication and analytical skills through carefully designed lesson plans.',
+        'Provided constructive feedback through regular assessments, integrated diverse resources, and collaborated with faculty to support student development.',
+        'Engaged with parents and guided students in effective study habits, promoting academic integrity and a love for literature and language.'
       ]
     },
-    {
-      title: 'Physics Internship',
-      period: '17 Aug 2022 - 26 Sep 2022',
-      organization: 'National Metallurgical Laboratory, Jamshedpur',
-      achievements: [
-        'Conducted research on sustainable hydrogen production through water splitting under the mentorship of Dr. Animesh Jana. The project focused on developing efficient electrocatalysts for water electrolysis to generate clean hydrogen fuel.',
-        'Contributed to the investigation of novel materials and optimization of electrochemical parameters to enhance hydrogen evolution reaction (HER) efficiency.'
-      ]
-    }
   ];
 
   return (
