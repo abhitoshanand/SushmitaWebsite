@@ -1,4 +1,4 @@
-import { Mail, Linkedin, Phone } from 'lucide-react';
+import { Mail, Linkedin, Phone, ArrowDown } from 'lucide-react';
 
 export function Profile() {
   return (
